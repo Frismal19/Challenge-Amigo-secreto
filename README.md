@@ -29,7 +29,7 @@ La idea es que cada participante reciba de forma aleatoria a quién le correspon
 ### Comandos
 
 ```
-1. Clonar el siguiente repositorio: git clone https://github.com/tuusuario/amigo-secreto.git
+1. Clonar el siguiente repositorio: git clone [https://github.com/tuusuario/amigo-secreto.git](https://github.com/Frismal19/Challenge-Amigo-secreto.git)
 
 2. Ejecuta el programa: python amigo_secreto.py
 
