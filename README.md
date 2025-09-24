@@ -31,7 +31,9 @@ La idea es que cada participante reciba de forma aleatoria a quién le correspon
 ```
 1. Clonar el siguiente repositorio: git clone [https://github.com/tuusuario/amigo-secreto.git](https://github.com/Frismal19/Challenge-Amigo-secreto.git)
 
-2. Ejecuta el programa: python amigo_secreto.py
+2. Entra en la carpeta del proyecto: cd Challenge-Amigo-secreto
 
-3. Ingresa los nombres y ¡listo!
+3. Abre el archivo index.html en tu navegador web favorito
+
+4. Ingresa los nombres de los participantes en la interfaz y el programa hará el sorteo automáticamente
 ```
